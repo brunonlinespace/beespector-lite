@@ -1,0 +1,22 @@
+{
+  "id": "beespector-lite",
+  "name": "Beespector Lite",
+  "description": "Lightweight edition of the Beespector file-inspection utility.",
+  "component_kind": "reader",
+  "extensions": [],
+  "portable_command": [
+    "main.py"
+  ],
+  "icon": "beespector_lite/assets/icons/beespector.png",
+  "version": "0.0.4",
+  "publisher": "brunonlinespace",
+  "repository": "https://github.com/brunonlinespace/beespector-lite",
+  "desktop_id": "io.github.brunonlinespace.beespector-lite",
+  "tagline": "Friendly. Fast. Focused.",
+  "publisher_id": "brunonlinespace",
+  "capabilities": {
+    "routing": false,
+    "open": true,
+    "create": false
+  }
+}

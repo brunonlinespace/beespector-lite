@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -Eeuo pipefail
+HERE="$(cd -- "$(dirname -- "$0")" && pwd -P)"
+export PATH="$HERE/usr/bin:${PATH:-}"
+exec "$HERE/usr/bin/beespector-lite" "$@"

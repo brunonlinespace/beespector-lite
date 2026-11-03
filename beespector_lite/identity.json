@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "component_id": "beespector-lite",
+  "name": "Beespector Lite",
+  "developer": "brunonlinespace",
+  "package": "beespector_lite",
+  "executable": "beespector-lite",
+  "appstream_id": "io.github.brunonlinespace.beespector-lite",
+  "desktop_file": "io.github.brunonlinespace.beespector-lite.desktop",
+  "source_archive_pattern": "Beespector-Lite-*-source.zip",
+  "config_relative": "brunonlinespace/beespector-lite/beespector-lite.json"
+}

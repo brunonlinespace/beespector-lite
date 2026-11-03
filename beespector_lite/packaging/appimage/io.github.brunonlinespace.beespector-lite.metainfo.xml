@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.brunonlinespace.beespector-lite</id>
+  <name>Beespector Lite</name>
+  <summary>Lightweight read-only binary and hexadecimal inspector</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <developer id="io.github.brunonlinespace"><name>Bruno Machado</name></developer>
+  <description><p>Inspect regular files as offsets, hexadecimal bytes and ASCII with no comparison feature and no write-back functionality.</p></description>
+  <launchable type="desktop-id">io.github.brunonlinespace.beespector-lite.desktop</launchable>
+  <url type="homepage">https://github.com/brunonlinespace/beespector-lite</url>
+  <url type="bugtracker">https://github.com/brunonlinespace/beespector-lite/issues</url>
+  <content_rating type="oars-1.1"/>
+  <provides><binary>beespector-lite</binary><mediatype>application/octet-stream</mediatype></provides>
+  <releases><release version="0.0.4" date="2026-11-03"/></releases>
+</component>

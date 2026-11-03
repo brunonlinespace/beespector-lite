@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Beespector Lite
+Comment=Read-only binary and hexadecimal inspector
+Exec=beespector-lite %F
+Icon=beespector-lite
+Terminal=false
+Categories=Utility;Viewer;
+MimeType=application/octet-stream;
+StartupNotify=true
+StartupWMClass=beespector-lite
